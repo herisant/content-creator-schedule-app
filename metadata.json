@@ -1,0 +1,6 @@
+{
+  "name": "KarsaPost - Content Planner Kreator",
+  "description": "Aplikasi content planner cerdas untuk kreator mengelola jadwal posting media sosial, kalender editorial, feed preview, dan ide konten AI secara efisien.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
